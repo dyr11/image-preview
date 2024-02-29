@@ -36,3 +36,5 @@ A preview image plugin, when you define an image url, you can preview it content
 Plugin based on the [IntelliJ Platform Plugin Template][template].
 
 [template]: https://github.com/JetBrains/intellij-platform-plugin-template
+
+update
